@@ -1,7 +1,7 @@
 # Manipulator_pick_and_place_task
 Static and mobile manipulators performing pick and place/stack task on Python PyBullet. 
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  <-- Python 3.14.2 -->
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  <!-- Python 3.14.2 -->
 ![PyBullet](https://img.shields.io/badge/PyBullet-Physics-green.svg)
 <a href= "https://img.shields.io/badge/License-Apache--2.0-yellow"> <img src="https://img.shields.io/badge/License-Apache--2.0-yellow" alt="License Badge"/></a>
 
