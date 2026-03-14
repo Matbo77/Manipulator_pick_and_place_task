@@ -19,4 +19,4 @@ Static and mobile manipulators performing object pick and place/stack task on Py
 
 Files 
 
-/1_panda_pick_stack_legos
+- /1_panda_pick_stack_legos : python main files to run the simulation scenarios
