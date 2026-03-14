@@ -14,3 +14,9 @@ Static and mobile manipulators performing object pick and place/stack task on Py
 2. **Pick and stack legos by a (static) panda manipulator using visual servoing to determine the legos positions** (to do).
 
 3. **Pick and stack legos by a (mobile) manipulator using visual servoing to determine the legos positions** (to do).
+
+
+
+Files 
+
+/1_panda_pick_stack_legos
